@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-    background-color: #888; /* Color más claro */
+    background-color: #888; 
     padding: 10px;
 }
 
@@ -13,7 +13,7 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-around; /* Ajustado y con más separación */
+    justify-content: space-around; 
 }
 
 nav ul li {
